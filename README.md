@@ -1,2 +1,2 @@
 # PythonExpenseTracker
-An Expense Tacker Built with Python
+An Expense Tracker Built with Python
